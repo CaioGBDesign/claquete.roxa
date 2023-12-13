@@ -1,0 +1,388 @@
+[
+   {
+      "IDator":"elijah-wood",
+      "nome":"Elijah Wood",
+      "foto":"https://media.gq.com/photos/6435f1a06b4021450ec5c9c1/master/w_2625,h_3500,c_limit/ElijahWood-GQ-02.jpg"
+   },
+   {
+      "IDator":"viggo-mortensen",
+      "nome":"Viggo Mortensen",
+      "foto":"https://cinema10.com.br/upload/personalidades/personalidades_2279_viggo-mortensen.jpg"
+   },
+   {
+      "IDator":"ian-mckellen",
+      "nome":"Ian McKellen",
+      "foto":"https://flxt.tmsimg.com/assets/71249_v9_bc.jpg"
+   },
+   {
+      "IDator":"orlando-bloom",
+      "nome":"Orlando Bloom",
+      "foto":"https://images.mubicdn.net/images/cast_member/16381/cache-1157-1527840944/image-w856.jpg?size=800x"
+   },
+   {
+      "IDator":"sean-astin",
+      "nome":"Sean Astin",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/8/89/Sean_Astin_by_Gage_Skidmore.jpg"
+   },
+   {
+      "IDator":"liam-neeson",
+     "nome":"Liam Neeson",
+     "foto":"https://img.melhoresfilmes.com.br/unsafe/480x640/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Factors%2F5347.jpg%3Ft%3D20221025001254"
+  },
+  {
+   "IDator":"ben-kingsley",
+     "nome":"Ben Kingsley",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ben_Kingsley_by_Gage_Skidmore.jpg/640px-Ben_Kingsley_by_Gage_Skidmore.jpg"
+  },
+  {
+   "IDator":"ralph-fiennes",
+     "nome":"Ralph Fiennes",
+     "foto":"https://cdn.britannica.com/63/212163-050-A266B2D0/Ralph-Fiennes-English-actor-2016.jpg"
+  },
+  {
+   "IDator":"embeth-davidtz",
+     "nome":"Embeth Davidtz",
+     "foto":"https://m.media-amazon.com/images/M/MV5BMTcyNTUyOTU5OV5BMl5BanBnXkFtZTcwMjE5MjQ1Nw@@._V1_.jpg"
+  },
+  {
+   "IDator":"caroline-goodall",
+     "nome":"Caroline Goodall",
+     "foto":"https://m.media-amazon.com/images/M/MV5BOTU2MDE0NzMxOV5BMl5BanBnXkFtZTcwNjE2OTg1OA@@._V1_.jpg"
+  },
+  {
+   "IDator":"henry-fonda",
+     "nome":"Henry Fonda",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg"
+  },
+  {
+   "IDator":"lee-j-cobb",
+     "nome":"Lee J. Cobb",
+     "foto":"https://flxt.tmsimg.com/assets/38486_v9_ba.jpg"
+  },
+  {
+   "IDator":"e-g-marshall",
+     "nome":"E. G. Marshall",
+     "foto":"https://flxt.tmsimg.com/assets/71841_v9_ba.jpg"
+  },
+  {
+   "IDator":"jack-warden",
+     "nome":"Jack Warden",
+     "foto":"https://img.melhoresfilmes.com.br/unsafe/480x640/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Factors%2F2668.jpg%3Ft%3D20221025001206"
+  },
+  {
+   "IDator":"ed-begley",
+     "nome":"Ed Begley",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/8/87/Garden_State_GreenFest%2C_Union%2C_NJ_3-15-14_%2813179555463%29_%28cropped%29.jpg"
+  },
+  {
+   "IDator":"christian-bale",
+     "nome":"Christian Bale",
+     "foto":"https://br.web.img3.acsta.net/c_310_420/pictures/15/02/24/18/43/126776.jpg"
+  },
+  {
+   "IDator":"heath-ledger",
+     "nome":"Heath Ledger",
+     "foto":"https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+   "IDator":"aaron-eckhart",
+     "nome":"Aaron Eckhart",
+     "foto":"https://br.web.img3.acsta.net/pictures/16/01/28/10/38/041658.jpg"
+  },
+  {
+   "IDator":"gary-oldman",
+     "nome":"Gary Oldman",
+     "foto":"https://br.web.img2.acsta.net/pictures/16/03/18/16/03/398105.jpg"
+  },
+  {
+   "IDator":"maggie-gyllenhaal",
+     "nome":"Maggie Gyllenhaal",
+     "foto":"https://br.web.img3.acsta.net/pictures/15/10/21/10/48/401053.jpg"
+  },
+  {
+   "IDator":"al-pacino",
+     "nome": "Al Pacino",
+     "foto": "https://upload.wikimedia.org/wikipedia/commons/9/98/Al_Pacino.jpg"
+   },
+   {
+      "IDator":"robert-de-niro",
+     "nome": "Robert De Niro",
+     "foto": "https://www.mapadoceu.com.br/photo/astro/robert-de-niro.jpg"
+   },
+   {
+      "IDator":"diane-keaton",
+     "nome": "Diane Keaton",
+     "foto": "https://br.web.img2.acsta.net/pictures/18/07/18/21/04/5918078.jpg"
+   },
+   {
+      "IDator":"talia-shire",
+     "nome": "Talia Shire",
+     "foto": "https://m.media-amazon.com/images/M/MV5BMTkwMzc0NjQzNV5BMl5BanBnXkFtZTYwNzM0NTk3._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"richard-s-astellano",
+      "nome":"Richard S. Castellano",
+      "foto":"https://media.fstatic.com/V3nyc6ZM7k2l4MpuVLHEDEdAEDY=/full-fit-in/290x478/filters:format(webp)/media/artists/avatar/2016/02/richard-s-castellano_a79526.jpg"
+   },
+   {
+      "IDator":"james-caan",
+     "nome": "James Caan",
+     "foto": "https://br.web.img3.acsta.net/pictures/15/06/09/21/29/576102.jpg"
+   },
+   {
+      "IDator": "diane-keaton",
+     "nome": "Diane Keaton",
+     "foto": "https://br.web.img2.acsta.net/pictures/18/07/18/21/04/5918078.jpg"
+   },
+   {
+      "IDator": "talia-shire",
+      "nome": "Talia Shire",
+     "foto": "https://m.media-amazon.com/images/M/MV5BMTkwMzc0NjQzNV5BMl5BanBnXkFtZTYwNzM0NTk3._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"marlon-brando",
+     "nome": "Marlon Brando",
+     "foto": "https://musicimage.xboxlive.com/catalog/video.contributor.b3040500-0200-11db-89ca-0019b92a3933/image?locale=pt-br&target=circle"
+   },
+   {
+      "IDator": "diane-keaton",
+     "nome": "Diane Keaton",
+     "foto": "https://br.web.img2.acsta.net/pictures/18/07/18/21/04/5918078.jpg"
+   },
+   {
+      "IDator": "talia-shire",
+     "nome": "Talia Shire",
+     "foto": "https://m.media-amazon.com/images/M/MV5BMTkwMzc0NjQzNV5BMl5BanBnXkFtZTYwNzM0NTk3._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"morgan-freeman",
+     "nome": "Morgan Freeman",
+     "foto": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"tim-robbins",
+     "nome": "Tim Robbins",
+     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TimRobbinsTIFFSept2012.jpg/640px-TimRobbinsTIFFSept2012.jpg"
+   },
+   {
+      "IDator":"clancy-brown",
+     "nome": "Clancy Brown",
+     "foto": "https://br.web.img3.acsta.net/pictures/17/10/11/11/46/0693330.jpg"
+   },
+   {
+      "IDator":"bob-gunton",
+     "nome": "Bob Gunton",
+     "foto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0348409%2F&psig=AOvVaw2-fH6np81lUsf1AfmnyM3-&ust=1682027287447000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCjw4n2tv4CFQAAAAAdAAAAABAE"
+   },
+   {
+      "IDator":"robert-duvall",
+      "nome":"Robert Duvall",
+      "foto":"https://musicimage.xboxlive.com/catalog/video.contributor.9b9b0000-0200-11db-89ca-0019b92a3933/image?locale=pt-br&target=circle"
+   },
+   {
+      "IDator":"william-sadler",
+     "nome": "William Sadler",
+     "foto": "https://flxt.tmsimg.com/assets/105148_v9_bc.jpg"
+   },
+   {
+      "IDator":"paul-rudd",
+      "nome":"Paul Rudd",
+      "foto":"https://image.tmdb.org/t/p/w500/8eTtJ7XVXY0BnEeUaSiTAraTIXd.jpg"
+   },
+   {
+      "IDator":"evangeline-lilly",
+      "nome":"Evangeline Lilly",
+      "foto":"https://m.media-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"michael-douglas",
+      "nome":"Michael Douglas",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/3/38/Michael_Douglas_C%C3%A9sar_2016_3.jpg"
+   },
+   {
+      "IDator":"michelle-pfeiffer",
+      "nome":"Michelle Pfeiffer",
+      "foto":"https://br.web.img3.acsta.net/c_310_420/pictures/18/07/05/00/58/3790755.jpg"
+   },
+   {
+      "IDator":"jonathan-majors",
+      "nome":"Jonathan Majors",
+      "foto":"https://pyxis.nymag.com/v1/imgs/fe3/de3/0ec7780c460f61e98005943404f52989ab-jonathan-majors.1x.rsquare.w1400.jpg"
+   },
+   {
+      "IDator":"charles-martinet",
+      "nome":"Charles Martinet",
+      "foto":"https://static.jojowiki.com/images/2/2f/latest/20220127081216/Charles_Martinet_Infobox.png"
+   },
+   {
+      "IDator":"seth-rogen",
+      "nome":"Seth Rogen",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/1/19/Seth_Rogen_by_Gage_Skidmore_2.jpg"
+   },
+   {
+      "IDator":"chris-pratt",
+      "nome": "Chris Pratt",
+      "foto":"https://flxt.tmsimg.com/assets/249381_v9_bb.jpg"
+   },
+   {
+      "IDator":"charlie-day",
+     "nome": "Charlie Day",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Charlie_Day_by_Gage_Skidmore.jpg"
+   },
+   {
+      "IDator":"anya-taylor-joy",
+     "nome": "Anya Taylor-Joy",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Anya_Taylor-Joy_by_Gage_Skidmore.jpg/1200px-Anya_Taylor-Joy_by_Gage_Skidmore.jpg"
+   },
+   {
+      "IDator":"jack-black",
+      "nome": "Jack Black",
+      "foto":"https://br.web.img2.acsta.net/pictures/18/09/04/21/08/2345092.jpg"
+   },
+   {
+      "IDator":"keegan-michael-key",
+     "nome": "Keegan-Michael Key",
+     "foto":"https://ntvb.tmsimg.com/assets/assets/298513_v9_bb.jpg"
+   },
+   {
+      "IDator":"john-travolta",
+    "nome":"John Travolta",
+    "foto":"https://images.mubicdn.net/images/cast_member/2664/cache-719-1581373761/image-w856.jpg?size=800x"
+ },
+ {
+   "IDator":"samuel-l-jackson",
+    "nome":"Samuel L. Jackson",
+    "foto":"https://s2.glbimg.com/9ttodPHQNotM1IlqpijsyTthZQM=/0x0:400x400/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2023/c/6/e8TZMyStqGAlvG034WjA/c0ec2mtu-400x400.jpg"
+
+ },
+ {
+      "IDator":"uma-thurman",
+    "nome":"Uma Thurman",
+    "foto":"https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+   "IDator":"harvey-keitel",
+    "nome":"Harvey Keitel",
+    "foto":"https://br.web.img3.acsta.net/medias/nmedia/18/87/43/24/20040033.jpg"
+ },
+ {
+   "IDator":"tim-roth",
+    "nome":"Tim Roth",
+    "foto":"https://br.web.img2.acsta.net/pictures/15/05/28/18/21/547033.jpg"
+ },
+ {
+   "IDator":"daniel-radcliffe",
+    "nome":"Daniel Radcliffe",
+    "foto":"https://uploads.metropoles.com/wp-content/uploads/2022/03/17195011/Daniel-Rad-819x1024.jpg"
+ },
+ {
+   "IDator":"emma-watson",
+    "nome":"Emma Watson",
+    "foto":"https://images.mubicdn.net/images/cast_member/23751/cache-2603-1627313155/image-w856.jpg"
+ },
+ {
+   "IDator":"rupert-grint",
+    "nome":"Rupert Grint",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RupertGrint2018.jpg/640px-RupertGrint2018.jpg"
+ },
+ {
+   "IDator":"alan-rickman",
+    "nome":"Alan Rickman",
+    "foto":"https://m.media-amazon.com/images/M/MV5BMTUwNTc4MTg4Ml5BMl5BanBnXkFtZTcwNDY2MjkxOA@@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+   "IDator":"maggie-smith",
+    "nome":"Maggie Smith",
+    "foto":"https://m.media-amazon.com/images/M/MV5BMjA4NzYxNjc5Ml5BMl5BanBnXkFtZTYwMTMzOTg1._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+   "IDator":"richard-harris",
+    "nome":"Richard Harris",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/f/fc/2001_Richard_Harris.jpg"
+ },
+ {
+   "IDator":"robbie-coltrane",
+    "nome":"Robbie Coltrane",
+    "foto":"https://conteudo.imguol.com.br/c/entretenimento/b7/2022/10/14/robbie-coltrane-1665766657085_v2_3x4.jpg"
+ },
+ {
+   "IDator":"tom-felton",
+    "nome":"Tom Felton",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Tom_Felton_1.jpg"
+ },
+ {
+   "IDator":"david-thewlis",
+    "nome":"David Thewlis",
+    "foto":"https://br.web.img3.acsta.net/pictures/19/03/20/21/37/4717261.jpg"
+ },
+ {
+   "IDator":"michael-gambon",
+    "nome":"Michael Gambon",
+    "foto":"https://flxt.tmsimg.com/assets/71763_v9_bb.jpg"
+ },
+ {
+   "IDator":"helena-bonham-carter",
+    "nome":"Helena Bonham Carter",
+    "foto":"https://images.mubicdn.net/images/cast_member/10212/cache-2371-1627288994/image-w856.jpg"
+ },
+ {
+   "IDator":"imelda-staunton",
+    "nome":"Imelda Staunton",
+    "foto":"https://img.melhoresfilmes.com.br/unsafe/480x640/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Factors%2F5885.jpg%3Ft%3D20221025001307"
+ },
+ {
+   "IDator":"jason-isaacs",
+    "nome":"Jason Isaacs",
+    "foto":"https://m.media-amazon.com/images/M/MV5BNGM3MWZmZWYtYjgxNi00NGU1LThlMjUtMWVkY2FmZGE5Y2VjXkEyXkFqcGdeQXVyMzE4ODAxMA@@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+   "IDator":"clint-eastwood",
+    "nome":"Clint Eastwood",
+    "foto":"https://img.melhoresfilmes.com.br/unsafe/480x640/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Fdirectors%2F136.jpg%3Ft%3D20221024232502"
+ },
+ {
+   "IDator":"eli-wallach",
+    "nome":"Eli Wallach",
+    "foto":"https://m.media-amazon.com/images/M/MV5BNjk1NzcyZTItMjZkOC00MjM2LThiYWUtZDE5NGZlZDliYmViXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg"
+ },
+ {
+   "IDator":"lee-van-cleef",
+    "nome":"Lee Van Cleef",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Lee_Van_Cleef_-_Death_Rides_A_Horse_%281%29.jpg"
+ },
+ {
+   "IDator":"antonio-casale",
+    "nome":"Antonio Casale",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Antonio_Casale_in_%22The_Good%2C_the_Bad_and_the_Ugly%22%2C_1966.jpg"
+ },
+ {
+   "IDator":"rada-rassimov",
+    "nome":"Rada Rassimov",
+    "foto":"https://br.web.img3.acsta.net/pictures/15/04/24/20/37/028789.jpg"
+ },
+ {
+   "IDator":"tom-hanks",
+    "nome":"Tom Hanks",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg"
+ },
+ {
+   "IDator":"robin-wright",
+    "nome":"Robin Wright",
+    "foto":"https://br.web.img3.acsta.net/pictures/19/11/05/01/50/2018682.jpg"
+ },
+ {
+   "IDator":"gary-sinise",
+    "nome":"Gary Sinise",
+    "foto":"https://flxt.tmsimg.com/assets/22818_v9_bb.jpg"
+ },
+ {
+   "IDator":"sally-field",
+    "nome":"Sally Field",
+    "foto":"https://br.web.img3.acsta.net/pictures/20/01/13/22/36/5812459.jpg"
+ },
+ {
+   "IDator":"mykelti-williamson",
+    "nome":"Mykelti Williamson",
+    "foto":"https://flxt.tmsimg.com/assets/47337_v9_bc.jpg"
+ }
+]
