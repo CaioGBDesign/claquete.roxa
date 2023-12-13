@@ -1,0 +1,2257 @@
+[
+   {
+      "id":"FR-1",
+      "titulo":"Super Mario Bros",
+      "sinopse":"Dois encanadores de Nova York são jogados em um mundo paralelo estranho onde devem resgatar uma princesa sequestrada de um rei diabólico.",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g2"
+         },
+         {
+            "nome":"g3"
+         }
+      ],
+      "ano":2023,
+      "duracao":"1h 50m",
+      "bilheteria":"377 milhões USD",
+      "direcao":"Aaron Horvath , Michael Jelenic",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"jack-black",
+            "personagem":"Bowser"
+         },
+         {
+            "IDator":"chris-pratt",
+            "personagem":"Mario"
+         },
+         {
+            "IDator":"charlie-day",
+            "personagem":"Luigi"
+         },
+         {
+            "IDator":"anya-taylor-joy",
+            "personagem":"Peach"
+         },
+         {
+            "IDator":"seth-rogen",
+            "personagem":"Donkey Kong"
+         },
+         {
+            "IDator":"keegan-michael-key",
+            "personagem":"Toad"
+         },
+         {
+            "IDator":"charles-martinet",
+            "personagem":"Giuseppe, Mario's Dad"
+         }
+      ],
+      "dublagem":[
+         {
+            "nome":"Márcio Dondi",
+            "foto":"https://static.wikia.nocookie.net/dublagem/images/5/56/M%C3%A1rcio_Dondi_%28Dublador%29.jpg/revision/latest?cb=20211025224218&path-prefix=pt-br",
+            "personagem":"Bowser"
+         },
+         {
+            "nome":"Raphael Rossatto",
+            "foto":"https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2018/12/04/raphael01.JPG",
+            "personagem":"Mario"
+         },
+         {
+            "nome":"Manolo Rey",
+            "foto":"https://br.web.img2.acsta.net/c_310_420/pictures/14/06/20/20/50/505372.jpg",
+            "personagem":"Luigi"
+         },
+         {
+            "nome":"Carina Eiras",
+            "foto":"https://br.web.img3.acsta.net/pictures/22/11/30/17/29/4454170.png",
+            "personagem":"Peach"
+         },
+         {
+            "nome":"Pedro Azevedo",
+            "foto":"https://static.wikia.nocookie.net/dublagem/images/3/3a/Pedro_Azevedo.jpg/revision/latest?cb=20220312034709&path-prefix=pt-br",
+            "personagem":"Donkey Kong"
+         },
+         {
+            "nome":"Eduardo Drummond",
+            "foto":"https://static.wikia.nocookie.net/dublagem/images/6/65/Eduardo_Drummond.jpg/revision/latest?cb=20230704174406&path-prefix=pt-br",
+            "personagem":"Toad"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.4,
+         "RottenCriticos":58,
+         "RottenPublico":96,
+         "Metacritic":48,
+         "Letterboxd":3.8
+      },
+      "Flick":[
+         {
+            "especialista":"Denis Silva",
+            "foto":"https://caiogbdesign.github.io/flick/denis-silva-flick.jpg",
+            "avaliacao":"3"
+         },
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "opiniao":[
+         {
+            "especialista":"Caio Goulart",
+            "texto":"Super Mario Bros o filme é brilhante para quem é fã, por ser repleto de referências aos games clássicos. O filme é extremamente lindo, cada detalhe é uma nova pizza visual, mas infelizmente não passa disso. Para quem não é fã, essa é somente mais uma animação, cheia de eventos com pouca explicação. Mesmo para quem conhece os games é difícil absorver todas as referências, pois são exibidas com intervalos curtíssimos de tempo e sem preocupação com o impacto que terá sobre o filme. Super Mario Bros é um filme divertido e irá entreter as crianças, mas não espere por nada tão grandioso quanto a série de jogos."
+         }
+      ],
+      "filtroAvaliacao":[
+         {
+            "filtro":"notaSim"
+         },
+         {
+            "filtro":"opiniaoSim"
+         }
+      ],
+      "imagem":"https://leiturafilmica.com.br/wp-content/uploads/2023/04/super-mario-bros-o-filme-poster.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s6"
+         },
+         {
+            "streaming":"s7"
+         }
+      ],
+      "cinema":[
+         {
+            "disponibilidade":"cinemaSim"
+         }
+      ]
+   },
+   {
+      "id":"FR-2",
+      "titulo":"Homem-Formiga 3",
+      "sinopse":"Scott Lang tenta equilibrar sua vida pessoal e seus deveres como Homem-Formiga, quando é confrontado por um novo vilão que ameaça o mundo inteiro.",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g2"
+         },
+         {
+            "nome":"g4"
+         }
+      ],
+      "ano":2024,
+      "duracao":"2h 10m",
+      "bilheteria":"73,3 milhões USD",
+      "direcao":"Frank Darabont",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"paul-rudd",
+            "personagem":"Scott Lang / Homem-Formiga"
+         },
+         {
+            "IDator":"Evangeline Lilly",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Hope van Dyne / Vespa"
+         },
+         {
+            "IDator":"michael-douglas",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/3/38/Michael_Douglas_C%C3%A9sar_2016_3.jpg",
+            "personagem":"Hank Pym"
+         },
+         {
+            "IDator":"michelle-pfeiffer",
+            "foto":"https://br.web.img3.acsta.net/c_310_420/pictures/18/07/05/00/58/3790755.jpg",
+            "personagem":"Janet van Dyne"
+         },
+         {
+            "IDator":"jonathan-majors",
+            "foto":"https://pyxis.nymag.com/v1/imgs/fe3/de3/0ec7780c460f61e98005943404f52989ab-jonathan-majors.1x.rsquare.w1400.jpg",
+            "personagem":"Kang, o Conquistador"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":6.4,
+         "RottenCriticos":47,
+         "RottenPublico":83,
+         "Metacritic":50,
+         "Letterboxd":2.7
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"2"
+         }
+      ],
+      "imagem":"https://cinepop.com.br/wp-content/uploads/2023/01/homemformigaeavespa.jpeg",
+      "servicos":[
+         {
+            "streaming":"s9"
+         }
+      ],
+      "cinema":[
+         {
+            "disponibilidade":"cinemaSim"
+         }
+      ]
+   },
+   {
+      "id":"FR-3",
+      "titulo":"Um Sonho de Liberdade",
+      "sinopse":"Andy Dufresne é condenado a duas prisões perpétuas consecutivas pelas mortes de sua esposa e de seu amante. Porém, só Andy sabe que ele não cometeu os crimes. No presídio, durante dezenove anos, ele faz amizade com Red, sofre as brutalidades da vida na cadeia, se adapta, ajuda os carcereiros, etc.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g6"
+         }
+      ],
+      "ano":1995,
+      "duracao":"2h 22m",
+      "bilheteria":"73,3 milhões USD",
+      "direcao":"Frank Darabont",
+      "classificacao":"16-anos",
+      "elenco":[
+         {
+            "IDator":"morgan-freeman",
+            "personagem":"Ellis Boyd Redding"
+         },
+         {
+            "IDator":"tim-robbins",
+            "personagem":"Andy Dufresne"
+         },
+         {
+            "IDator":"clancy-brown",
+            "foto":"https://br.web.img3.acsta.net/pictures/17/10/11/11/46/0693330.jpg",
+            "personagem":"Capitão Hadley"
+         },
+         {
+            "IDator":"bob-gunton",
+            "foto":"https://image.tmdb.org/t/p/w500/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg",
+            "personagem":"Warden Samuel"
+         },
+         {
+            "IDator":"william-sadler",
+            "foto":"https://flxt.tmsimg.com/assets/105148_v9_bc.jpg",
+            "personagem":"Heywood"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":9.3,
+         "RottenCriticos":90,
+         "RottenPublico":98,
+         "Metacritic":80,
+         "Letterboxd":4.6
+      },
+      "imagem":"https://leiturafilmica.com.br/wp-content/uploads/2022/04/um-sonho-de-liberdade-poster.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-4",
+      "titulo":"O Poderoso Chefão",
+      "sinopse":"Em 1945, Don Corleone, chefe da família mafiosa Corleone, tenta transferir seus negócios para negociações mais lucrativas de apostas, mas encontra resistência de outras gangues que querem o seu poder. Uma tentativa de assassinato leva a uma série de eventos violentos que ameaçam destruir a família Corleone.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g7"
+         }
+      ],
+      "ano":1972,
+      "duracao":"2h 55m",
+      "bilheteria":"246 milhões USD",
+      "direcao":"Francis Ford Coppola",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDator":"marlon-brando",
+            "personagem":"Don Vito Corleone"
+         },
+         {
+            "IDator":"al-pacino",
+            "personagem":"Michael Corleone"
+         },
+         {
+            "IDator":"james-caan",
+            "personagem":"Sonny Corleone"
+         },
+         {
+            "IDator":"richard-s-astellano",
+            "personagem":"Peter Clemenza"
+         },
+         {
+            "IDator":"robert-duvall",
+            "personagem":"Tom Hagen"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":9.2,
+         "RottenCriticos":98,
+         "RottenPublico":98,
+         "Metacritic":100,
+         "Letterboxd":4.6
+      },
+      "imagem":"https://lumiere-a.akamaihd.net/v1/images/the_godfather_99f377a2.jpeg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s3"
+         }
+      ]
+   },
+   {
+      "id":"FR-5",
+      "titulo":"O Poderoso Chefão 2",
+      "sinopse":"Esta sequência mostra a ascensão de Vito Corleone ao poder na década de 1920, enquanto seu filho Michael tenta expandir o império da família nos anos 50 e lida com traições e inimigos.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g7"
+         }
+      ],
+      "ano":1974,
+      "duracao":"3h 22m",
+      "bilheteria":"193 milhões USD",
+      "direcao":"Francis Ford Coppola",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDpersonagem":"al-pacino",
+            "personagem":"Michael Corleone"
+         },
+         {
+            "IDator":"robert-de-niro",
+            "personagem":"Vito Corleone"
+         },
+         {
+            "IDator":"diane-keaton",
+            "personagem":"Kay Adams"
+         },
+         {
+            "IDator":"talia-shire",
+            "personagem":"Connie Corleone"
+         },
+         {
+            "IDator":"james-caan",
+            "personagem":"Sonny Corleone"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":9.0,
+         "RottenCriticos":97,
+         "RottenPublico":97,
+         "Metacritic":90,
+         "Letterboxd":4.5
+      },
+      "imagem":"https://vortexcultural.com.br/images/2020/01/poderoso-chefao-2.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s8"
+         }
+      ]
+   },
+   {
+      "id":"FR-6",
+      "titulo":"Harry Potter e a Câmara Secreta",
+      "sinopse":"Harry Potter volta à Escola de Magia e Bruxaria de Hogwarts para seu segundo ano letivo. Lá, descobre que uma estranha força está atacando os alunos e ameaçando a paz da escola.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2002,
+      "duracao":"2h 41m",
+      "bilheteria":"878 milhões USD",
+      "direcao":"Chris Columbus",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"maggie-smith",
+            "personagem":"Minerva McGonagall"
+         },
+         {
+            "IDator":"richard-harris",
+            "personagem":"Albus Dumbledore"
+         },
+         {
+            "IDator":"robbie-coltrane",
+            "personagem":"Rúbeo Hagrid"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.4,
+         "RottenCriticos":82,
+         "RottenPublico":78,
+         "Metacritic":63,
+         "Letterboxd":3.7
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://br.web.img3.acsta.net/medias/nmedia/18/93/01/50/20230712.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-7",
+      "titulo":"Batman: O Cavaleiro das Trevas",
+      "sinopse":"Quando a cidade de Gotham é ameaçada pelo caos causado pelo Coringa, Batman precisa encontrar um meio de deter o criminoso antes que tudo saia do controle.",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g7"
+         },
+         {
+            "nome":"g5"
+         }
+      ],
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "ano":2008,
+      "duracao":"2h 32m",
+      "bilheteria":"1,005 bilhão USD",
+      "direcao":"Christopher Nolan",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDator":"christian-bale",
+            "personagem":"Bruce Wayne / Batman"
+         },
+         {
+            "IDator":"heath-ledger",
+            "personagem":"Coringa"
+         },
+         {
+            "IDator":"aaron-eckhart",
+            "personagem":"Harvey Dent / Duas-Caras"
+         },
+         {
+            "IDator":"gary-oldman",
+            "personagem":"Jim Gordon"
+         },
+         {
+            "IDator":"maggie-gyllenhaal",
+            "personagem":"Rachel Dawes"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":9.0,
+         "RottenCriticos":94,
+         "RottenPublico":94,
+         "Metacritic":84,
+         "Letterboxd":4.4
+      },
+      "imagem":"https://br.web.img3.acsta.net/medias/nmedia/18/90/57/96/20121842.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-8",
+      "titulo":"12 Homens e uma Sentença",
+      "sinopse":"Um júri composto por doze homens deve decidir o destino de um jovem acusado de assassinato. Enquanto alguns são prontos para votar pela condenação, um homem acredita na inocência do réu e faz um esforço para convencer os outros membros do júri a reconsiderar a sua decisão.",
+      "generos":[
+         {
+            "nome":"g5"
+         }
+      ],
+      "ano":1957,
+      "duracao":"1h 36m",
+      "bilheteria":"2.2 milhões USD",
+      "direcao":"Sidney Lumet",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"henry-fonda",
+            "personagem":"Juror 8"
+         },
+         {
+            "IDator":"lee-j-cobb",
+            "personagem":"Juror 3"
+         },
+         {
+            "IDator":"e-g-marshall",
+            "personagem":"Juror 4"
+         },
+         {
+            "IDator":"jack-warden",
+            "personagem":"Juror 7"
+         },
+         {
+            "IDator":"ed-begley",
+            "personagem":"Juror 10"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.9,
+         "RottenCriticos":100,
+         "RottenPublico":97,
+         "Metacritic":96,
+         "Letterboxd":4.5
+      },
+      "imagem":"https://vertentesdocinema.com/wp-content/uploads/2020/09/12-homens-e-uma-sentenca-poster.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         }
+      ]
+   },
+   {
+      "id":"FR-9",
+      "titulo":"A Lista de Schindler",
+      "sinopse":"Durante a Segunda Guerra Mundial, um empresário alemão salva a vida de mais de mil judeus poloneses ao empregar trabalhadores em sua fábrica. O filme é baseado em fatos reais.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g9"
+         }
+      ],
+      "ano":1993,
+      "duracao":"3h 17m",
+      "bilheteria":"321,2 milhões USD",
+      "direcao":"Steven Spielberg",
+      "classificacao":"16-anos",
+      "elenco":[
+         {
+            "IDator":"liam-neeson",
+            "personagem":"Oskar Schindler"
+         },
+         {
+            "IDator":"ben-kingsley",
+            "personagem":"Itzhak Stern"
+         },
+         {
+            "IDator":"ralph-fiennes",
+            "personagem":"Amon Göth"
+         },
+         {
+            "IDator":"embeth-davidtz",
+            "personagem":"Helen Hirsch"
+         },
+         {
+            "IDator":"caroline-goodall",
+            "personagem":"Emilie Schindler"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.9,
+         "RottenCriticos":97,
+         "RottenPublico":97,
+         "Metacritic":94,
+         "Letterboxd":4.5
+      },
+      "imagem":"https://m.media-amazon.com/images/I/81PvO5Zf3yL.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-10",
+      "titulo":"O Senhor dos Anéis: O Retorno do Rei",
+      "sinopse":"Com a ajuda de seus amigos, Frodo e Sam, o hobbit arcano, deve destruir o Um Anel, para que Sauron, o Senhor das Trevas, não possa usá-lo para conquistar a Terra-média. Enquanto isso, Gandalf e os outros membros da sociedade do Anel se preparam para a grande batalha contra as forças do mal de Sauron.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2003,
+      "duracao":"3h 21m",
+      "bilheteria":"1,142 bilhão USD",
+      "direcao":"Peter Jackson",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDator":"elijah-wood",
+            "personagem":"Frodo Baggins"
+         },
+         {
+            "IDator":"viggo-mortensen",
+            "personagem":"Aragorn"
+         },
+         {
+            "IDator":"ian-mckellen",
+            "personagem":"Gandalf"
+         },
+         {
+            "IDator":"orlando-bloom",
+            "personagem":"Legolas"
+         },
+         {
+            "IDator":"sean-astin",
+            "personagem":"Samwise 'Sam' Gamgee"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.9,
+         "RottenCriticos":94,
+         "RottenPublico":86,
+         "Metacritic":94,
+         "Letterboxd":4.5
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://upload.wikimedia.org/wikipedia/pt/0/0d/EsdlaIII.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-11",
+      "titulo":"Pulp Fiction: Tempo de Violência",
+      "sinopse":"Um tributo ao cinema pulp dos anos 60 e 70, este filme narra várias histórias interligadas de criminosos e mafiosos em Los Angeles, mostrando suas vidas antes e depois de uma série de eventos violentos que afetam a todos.",
+      "generos":[
+         {
+            "nome":"g7"
+         },
+         {
+            "nome":"g5"
+         }
+      ],
+      "ano":1994,
+      "duracao":"2h 34m",
+      "bilheteria":"213,9 milhões USD",
+      "direcao":"Quentin Tarantino",
+      "classificacao":"18-anos",
+      "elenco":[
+         {
+            "IDator":"john-travolta",
+            "personagem":"Vincent Vega"
+         },
+         {
+            "IDator":"samuel-l-jackson",
+            "personagem":"Jules Winnfield"
+         },
+         {
+            "IDator":"uma-thurman",
+            "personagem":"Mia Wallace"
+         },
+         {
+            "IDator":"harvey-keitel",
+            "personagem":"O Lobo"
+         },
+         {
+            "IDator":"tim-roth",
+            "personagem":"Pumpkin"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.9,
+         "RottenCriticos":92,
+         "RottenPublico":94,
+         "Metacritic":94,
+         "Letterboxd":4.4
+      },
+      "imagem":"https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_SL1500_.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s6"
+         },
+         {
+            "streaming":"s7"
+         }
+      ]
+   },
+   {
+      "id":"FR-12",
+      "titulo":"Harry Potter e a Pedra Filosofal",
+      "sinopse":"Harry Potter, um órfão que descobre ser um bruxo, começa seu primeiro ano na Escola de Magia e Bruxaria de Hogwarts e descobre segredos sombrios enquanto tenta impedir o retorno do maligno Lord Voldemort.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2001,
+      "duracao":"2h 32m",
+      "bilheteria":"1,002 bilhão USD",
+      "direcao":"Chris Columbus",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"maggie-smith",
+            "personagem":"Minerva McGonagall"
+         },
+         {
+            "IDator":"richard-harris",
+            "personagem":"Albus Dumbledore"
+         },
+         {
+            "IDator":"robbie-coltrane",
+            "personagem":"Rúbeo Hagrid"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.6,
+         "RottenCriticos":81,
+         "RottenPublico":82,
+         "Metacritic":64,
+         "Letterboxd":3.9
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://br.web.img3.acsta.net/medias/nmedia/18/95/59/60/20417256.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-13",
+      "titulo":"Harry Potter e o Prisioneiro de Azkaban",
+      "sinopse":"Harry Potter, agora com 13 anos, volta para o terceiro ano em Hogwarts e encontra um novo professor de Defesa Contra as Artes das Trevas, Sirius Black, um fugitivo perigoso que supostamente traiu os pais de Harry e agora está atrás dele.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2004,
+      "duracao":"2h 22m",
+      "bilheteria":"796,7 milhões USD",
+      "direcao":"Alfonso Cuarón",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"gary-oldman",
+            "personagem":"Sirius Black"
+         },
+         {
+            "IDator":"david-thewlis",
+            "personagem":"Remus Lupin"
+         },
+         {
+            "IDator":"michael-gambon",
+            "personagem":"Alvo Dumbledore"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.9,
+         "RottenCriticos":91,
+         "RottenPublico":86,
+         "Metacritic":82,
+         "Letterboxd":4.0
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://br.web.img2.acsta.net/medias/nmedia/18/93/88/04/20282944.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-14",
+      "titulo":"Harry Potter e a Ordem da Fênix",
+      "sinopse":"Harry Potter retorna a Hogwarts para o quinto ano de estudos e descobre que muitos dos seus colegas e até mesmo alguns professores não acreditam em suas alegações sobre o retorno de Voldemort. Enquanto isso, Dolores Umbridge é nomeada como nova professora de Defesa Contra as Artes das Trevas, impondo um regime opressivo na escola.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2007,
+      "duracao":"2h 18m",
+      "bilheteria":"942,0 milhões USD",
+      "direcao":"David Yates",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"ralph-fiennes",
+            "personagem":"Lord Voldemort"
+         },
+         {
+            "IDator":"imelda-staunton",
+            "personagem":"Dolores Umbridge"
+         },
+         {
+            "IDator":"gary-oldman",
+            "personagem":"Sirius Black"
+         },
+         {
+            "IDator":"david-thewlis",
+            "personagem":"Remus Lupin"
+         },
+         {
+            "IDator":"michael-gambon",
+            "personagem":"Alvo Dumbledore"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.5,
+         "RottenCriticos":77,
+         "RottenPublico":81,
+         "Metacritic":71,
+         "Letterboxd":3.5
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://br.web.img3.acsta.net/medias/nmedia/18/90/67/58/20107766.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-15",
+      "titulo":"Harry Potter e o Cálice de Fogo",
+      "sinopse":"Harry Potter volta para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com seus amigos Ron e Hermione. Mas Hogwarts está se preparando para sediar o Torneio Tribruxo, onde três escolas de magia competem entre si em uma série de desafios perigosos. Enquanto isso, uma nova ameaça sombria se esconde nos corredores de Hogwarts, colocando a vida de Harry em perigo mais uma vez.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2005,
+      "duracao":"2h 37m",
+      "bilheteria":"896 milhões USD",
+      "direcao":"Mike Newell",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"ralph-fiennes",
+            "personagem":"Lord Voldemort"
+         },
+         {
+            "IDator":"michael-gambon",
+            "personagem":"Alvo Dumbledore"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.7,
+         "RottenCriticos":88,
+         "RottenPublico":74,
+         "Metacritic":81,
+         "Letterboxd":3.8
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://img.elo7.com.br/product/original/265774E/big-poster-harry-potter-e-o-calice-de-fogo-lo02-90x60-cm-geek.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-16",
+      "titulo":"Harry Potter e o Enigma do Príncipe",
+      "sinopse":"Com a ajuda do professor Dumbledore, Harry Potter começa a desvendar o passado de Lord Voldemort para encontrar uma maneira de derrotá-lo antes que seja tarde demais.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2009,
+      "duracao":"2h 33m",
+      "bilheteria":"934,4 milhões USD",
+      "direcao":"David Yates",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"michael-gambon",
+            "personagem":"Alvo Dumbledore"
+         },
+         {
+            "IDator":"helena-bonham-carter",
+            "personagem":"Bellatrix Lestrange"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.6,
+         "RottenCriticos":84,
+         "RottenPublico":75,
+         "Metacritic":78,
+         "Letterboxd":3.5
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://img.elo7.com.br/product/original/265780F/big-poster-harry-potter-e-o-enigma-do-principe-lo04-90x60-cm-harry-potter.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-17",
+      "titulo":"Harry Potter e as Relíquias da Morte: Parte 1",
+      "sinopse":"Com a ajuda de seus amigos Ron e Hermione, Harry foge de Hogwarts para destruir as Horcruxes restantes de Voldemort. Enquanto isso, o Lorde das Trevas toma o controle do Ministério da Magia e de Hogwarts.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2010,
+      "duracao":"2h 26m",
+      "bilheteria":"977,5 milhões USD",
+      "direcao":"David Yates",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"helena-bonham-carter",
+            "personagem":"Bellatrix Lestrange"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         },
+         {
+            "IDator":"ralph-fiennes",
+            "personagem":"Lord Voldemort"
+         },
+         {
+            "IDator":"jason-isaacs",
+            "personagem":"Lucio Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.7,
+         "RottenCriticos":77,
+         "RottenPublico":83,
+         "Metacritic":65,
+         "Letterboxd":3.8
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://m.media-amazon.com/images/I/51-zuZSKWjL.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-18",
+      "titulo":"Harry Potter e as Relíquias da Morte: Parte 2",
+      "sinopse":"Na segunda parte do final épico da série Harry Potter, a batalha entre as forças do bem e do mal no mundo da magia se intensifica. O poder de Voldemort está aumentando cada vez mais, e ele agora controla Hogwarts. Harry, Ron e Hermione decidem terminar o trabalho de Dumbledore e encontrar o resto das Horcruxes para derrotar o Lorde das Trevas. Mas a jornada perigosa leva-os a uma batalha final épica, onde as vidas deles e o futuro do mundo mágico estão em jogo.",
+      "generos":[
+         {
+            "nome":"g8"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2011,
+      "duracao":"2h 10m",
+      "bilheteria":"1.342 bilhão USD",
+      "direcao":"David Yates",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "IDator":"daniel-radcliffe",
+            "personagem":"Harry Potter"
+         },
+         {
+            "IDator":"emma-watson",
+            "personagem":"Hermione Granger"
+         },
+         {
+            "IDator":"rupert-grint",
+            "personagem":"Ron Weasley"
+         },
+         {
+            "IDator":"alan-rickman",
+            "personagem":"Severo Snape"
+         },
+         {
+            "IDator":"helena-bonham-carter",
+            "personagem":"Bellatrix Lestrange"
+         },
+         {
+            "IDator":"tom-felton",
+            "personagem":"Draco Malfoy"
+         },
+         {
+            "IDator":"ralph-fiennes",
+            "personagem":"Lord Voldemort"
+         },
+         {
+            "IDator":"jason-isaacs",
+            "personagem":"Lucio Malfoy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.1,
+         "RottenCriticos":96,
+         "RottenPublico":89,
+         "Metacritic":87,
+         "Letterboxd":3.9
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://www.jagatreview.com/wp-content/uploads/2011/07/harry-potter-deathly-hallows-2-poster-406x600.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-19",
+      "titulo":"Três Homens em Conflito",
+      "sinopse":"Nos Estados Unidos, durante a Guerra de Secessão, um pistoleiro misterioso tenta trabalhar em conjunto com um bandido e um caçador de recompensas para encontrar um tesouro escondido. Os homens são obrigados a forjar uma difícil aliança visto que cada um conhece apenas uma parte da localização da fortuna. O problema é que nenhum deles tem a intenção de dividir a riqueza.",
+      "generos":[
+         {
+            "nome":"g10"
+         },
+         {
+            "nome":"g11"
+         }
+      ],
+      "ano":2011,
+      "duracao":"3h",
+      "bilheteria":"38,9 milhões USD",
+      "direcao":"Sergio Leone",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDator":"clint-eastwood",
+            "personagem":"Pistoleiro sem nome"
+         },
+         {
+            "IDator":"eli-wallach",
+            "personagem":"Tuco"
+         },
+         {
+            "IDator":"lee-van-cleef",
+            "personagem":"Angel Eyes, Sentenza"
+         },
+         {
+            "IDator":"antonio-casale",
+            "personagem":"Jackson"
+         },
+         {
+            "IDator":"rada-rassimov",
+            "personagem":"Maria"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.1,
+         "RottenCriticos":96,
+         "RottenPublico":89,
+         "Metacritic":87,
+         "Letterboxd":3.9
+      },
+      "imagem":"https://br.web.img2.acsta.net/medias/nmedia/18/97/53/07/20534288.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-20",
+      "titulo":"Forrest Gump: O Contador de Histórias",
+      "sinopse":"Forrest Gump é um homem simples com um coração enorme. Através de sua jornada de vida, ele experimenta alguns dos momentos mais importantes da história dos Estados Unidos. Apesar dos desafios e dificuldades que enfrenta, Forrest sempre mantém um otimismo e uma sabedoria que o ajudam a superar qualquer adversidade.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g3"
+         }
+      ],
+      "ano":1994,
+      "duracao":"2h 22m",
+      "bilheteria":"677,9 milhões USD",
+      "direcao":"Robert Zemeckis",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "IDator":"tom-hanks",
+            "personagem":"Forrest Gump"
+         },
+         {
+            "IDator":"robin-wright",
+            "personagem":"Jenny Curran"
+         },
+         {
+            "IDator":"gary-sinise",
+            "personagem":"Tenente Dan Taylor"
+         },
+         {
+            "IDator":"sally-field",
+            "personagem":"Sra. Gump"
+         },
+         {
+            "IDator":"mykelti-williamson",
+            "personagem":"Bubba Blue"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.8,
+         "RottenCriticos":72,
+         "RottenPublico":95,
+         "Metacritic":82,
+         "Letterboxd":4.3
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://i.ytimg.com/vi/hf_lCA-T99c/movieposter_en.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         },
+         {
+            "streaming":"s8"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-21",
+      "titulo":"Um Sonho Possível",
+      "sinopse":"Baseado em uma história real, o filme conta a história de Michael Oher, um jovem sem-teto e com dificuldades de aprendizado, que é acolhido por uma família rica e acaba se tornando um jogador de futebol americano de sucesso. Ao longo do caminho, Michael aprende o valor da família, da determinação e do trabalho duro.",
+      "generos":[
+         {
+            "nome":"g5"
+         },
+         {
+            "nome":"g12"
+         }
+      ],
+      "ano":2009,
+      "duracao":"2h 8m",
+      "bilheteria":"309,2 milhões USD",
+      "direcao":"John Lee Hancock",
+      "classificacao":"12-anos",
+      "elenco":[
+         {
+            "nome":"Sandra Bullock",
+            "foto":"https://br.web.img3.acsta.net/pictures/18/06/22/19/24/3056694.jpg",
+            "personagem":"Leigh Anne Tuohy"
+         },
+         {
+            "nome":"Quinton Aaron",
+            "foto":"https://m.media-amazon.com/images/M/MV5BODQ3Y2JhZGYtY2I3Yy00M2Y3LWE3YzYtYWZiMDI4YjQwMzRmXkEyXkFqcGdeQXVyNDUzNjIxMzg@._V1_.jpg",
+            "personagem":"Michael Oher"
+         },
+         {
+            "nome":"Tim McGraw",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMjcyNTkyOTY4OV5BMl5BanBnXkFtZTcwODI2NzQ5Mg@@._V1_FMjpg_UY2048_.jpg",
+            "personagem":"Sean Tuohy"
+         },
+         {
+            "nome":"Lily Collins",
+            "foto":"https://br.web.img2.acsta.net/pictures/19/03/08/16/43/0584669.jpg",
+            "personagem":"Collins Tuohy"
+         },
+         {
+            "nome":"Kathy Bates",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Kathy_Bates_by_Gage_Skidmore.jpg",
+            "personagem":"Miss Sue"
+         },
+         {
+            "nome":"Jae Head",
+            "foto":"https://images.mubicdn.net/images/cast_member/118455/cache-323874-1521932747/image-w856.jpg",
+            "personagem":"S.J Tuohy"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.6,
+         "RottenCriticos":66,
+         "RottenPublico":85,
+         "Metacritic":53,
+         "Letterboxd":3.7
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"5"
+         }
+      ],
+      "imagem":"https://br.web.img2.acsta.net/medias/nmedia/18/87/31/80/19874256.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s3"
+         }
+      ]
+   },
+   {
+      "id":"FR-22",
+      "titulo":"Escola do bem e do mal",
+      "sinopse":"As melhores amigas Sophie e Agatha se encontram em lados opostos de uma batalha épica quando são levadas para uma escola encantada onde aspirantes a heróis e vilões são treinados.",
+      "generos":[
+         {
+            "nome":"g2"
+         },
+         {
+            "nome":"g7"
+         }
+      ],
+      "ano":2022,
+      "duracao":"2h 27m",
+      "direcao":"Paul Feig",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "nome":"Sofia Wylie",
+            "foto":"https://br.web.img2.acsta.net/pictures/19/12/26/21/20/2686220.jpg",
+            "personagem":"Agatha"
+         },
+         {
+            "nome":"Sophia Anne Caruso",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/3/3f/SophiaAnneCaruso.jpg",
+            "personagem":"Sophie"
+         },
+         {
+            "nome":"Charlize Theron",
+            "foto":"https://s2-quem.glbimg.com/cXk7Mh8osUYJj_i0dYX-H3i7PdQ=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2023/7/l/Xs0jdWTSWlJBBzGzOpDg/charlize-theron-tapete-vermelho-mad-max-cannes-2015-getty-images.jpg",
+            "personagem":"Lady Lesso"
+         },
+         {
+            "nome":"Kerry Washington",
+            "foto":"https://static01.nyt.com/images/2023/09/24/multimedia/24KERRYWASHINGTON-06-zmgq/24KERRYWASHINGTON-06-zmgq-mediumSquareAt3X-v2.jpg",
+            "personagem":"Professor Dovey"
+         },
+         {
+            "nome":"Laurence Fishburne",
+            "foto":"https://images.mubicdn.net/images/cast_member/23689/cache-612517-1632507833/image-w856.jpg?size=800x",
+            "personagem":"The Schoolmaster"
+         },
+         {
+            "nome":"Kit Young",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMmRiODJjZjAtMGIyNy00ZGZlLTgwN2YtMTBiYzY1YTY0MzA2XkEyXkFqcGdeQXVyODg2OTM2MDc@._V1_.jpg",
+            "personagem":"Rafal"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":5.9,
+         "RottenCriticos":37,
+         "RottenPublico":66,
+         "Metacritic":30,
+         "Letterboxd":2.5
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://cinepop.com.br/wp-content/uploads/2022/06/a-escola-do-bem-e-do-mal.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         }
+      ]
+   },
+   {
+      "id":"FR-23",
+      "titulo":"A Freira",
+      "sinopse":"Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha.",
+      "generos":[
+         {
+            "nome":"g14"
+         },
+         {
+            "nome":"g13"
+         }
+      ],
+      "ano":2018,
+      "duracao":"1h 36m",
+      "direcao":"Corin Hardy",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "nome":"Taissa Farmiga",
+            "foto":"https://pm1.aminoapps.com/6361/06df6e13f339d1352728a9338a6d0ccc755881fe_hq.jpg",
+            "personagem":"Irmã Irene"
+         },
+         {
+            "nome":"Bonnie Aarons",
+            "foto":"https://br.web.img3.acsta.net/pictures/18/06/13/15/12/4248937.jpg",
+            "personagem":"A Freira"
+         },
+         {
+            "nome":"Jonas Bloquet",
+            "foto":"https://i.pinimg.com/736x/54/03/f7/5403f79c0b3d9014a9f91e8daaf50a5c.jpg",
+            "personagem":"Frenchie"
+         },
+         {
+            "nome":"Vera Farmiga",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vera_Farmiga_by_Gage_Skidmore.jpg/330px-Vera_Farmiga_by_Gage_Skidmore.jpg",
+            "personagem":"Lorraine Warren"
+         },
+         {
+            "nome":"Patrick Wilson",
+            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "personagem":"Ed Warren"
+         },
+         {
+            "nome":"Ingrid Bisu",
+            "foto":"https://m.media-amazon.com/images/M/MV5BYzRlMWZkNDItZTk3YS00MDM2LWIwMzYtOTkwMTY0YWEzYzM2XkEyXkFqcGdeQXVyOTIzMzc2NQ@@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Irmã Oana"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":5.3,
+         "RottenCriticos":24,
+         "RottenPublico":35,
+         "Metacritic":46,
+         "Letterboxd":2.1
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://assets.cinebelasartes.com.br/wp-content/uploads/2018/09/a-freira-cartaz-min.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-24",
+      "titulo":"A Freira 2",
+      "sinopse":"Em 1956, na França, um padre é assassinado e parece que um mal está se espalhando. Determinada a deter o maligno, irmã Irene mais uma vez fica cara a cara com uma força demoníaca.",
+      "generos":[
+         {
+            "nome":"g14"
+         },
+         {
+            "nome":"g13"
+         }
+      ],
+      "ano":2023,
+      "duracao":"1h 50m",
+      "direcao":"Michael Chaves",
+      "classificacao":"16-anos",
+      "elenco":[
+         {
+            "nome":"Taissa Farmiga",
+            "foto":"https://pm1.aminoapps.com/6361/06df6e13f339d1352728a9338a6d0ccc755881fe_hq.jpg",
+            "personagem":"Irmã Irene"
+         },
+         {
+            "nome":"Bonnie Aarons",
+            "foto":"https://br.web.img3.acsta.net/pictures/18/06/13/15/12/4248937.jpg",
+            "personagem":"A Freira"
+         },
+         {
+            "nome":"Jonas Bloquet",
+            "foto":"https://i.pinimg.com/736x/54/03/f7/5403f79c0b3d9014a9f91e8daaf50a5c.jpg",
+            "personagem":"Frenchie"
+         },
+         {
+            "nome":"Vera Farmiga",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vera_Farmiga_by_Gage_Skidmore.jpg/330px-Vera_Farmiga_by_Gage_Skidmore.jpg",
+            "personagem":"Lorraine Warren"
+         },
+         {
+            "nome":"Patrick Wilson",
+            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "personagem":"Ed Warren"
+         },
+         {
+            "nome":"Anna Popplewell",
+            "foto":"https://i.pinimg.com/736x/26/ec/54/26ec545072d33571ea05f7a49c8c95a8.jpg",
+            "personagem":"Kate"
+         },
+         {
+            "nome":"Storm Reid",
+            "foto":"https://www.beautycrew.com.au/media/49572/storm-reid-p.jpg",
+            "personagem":"Debra"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":5.6,
+         "RottenCriticos":52,
+         "RottenPublico":73,
+         "Metacritic":47,
+         "Letterboxd":2.3
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://ucicinemas.com.br/Content/Upload/Filmes/Posters/11330/filme_11330.jpg",
+      "servicos":[
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s6"
+         },
+         {
+            "streaming":"s2"
+         }
+      ]
+   },
+   {
+      "id":"FR-25",
+      "titulo":"As Marvels",
+      "sinopse":"Carol Danvers, vulgo Capitã Marvel, recuperou sua identidade da tirania dos Kree e se vingou da Inteligência Suprema. No entanto, consequências não intencionais fazem com que Carol assuma o fardo de um universo desestabilizado. Quando suas obrigações levam Carol até uma fenda espacial anômala ligada a um revolucionário Kree, seus poderes se entrelaçam aos de Kamala Khan, uma super fã de Jersey City, vulgo Ms. Marvel, e aos da sobrinha de Carol, atual astronauta da S.A.B.E.R., a Capitã Monica Rambeau. Juntas, esse trio improvável precisará se unir e aprender a trabalhar em conjunto para salvar o universo como As Marvels.",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g2"
+         }
+      ],
+      "ano":2023,
+      "duracao":"1h 45m",
+      "direcao":"Nia DaCosta",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "nome":"Brie Larson",
+            "foto":"https://m.media-amazon.com/images/M/MV5BNDE4ZWY1ZTUtYjNhMy00MTQyLWFmMjktNTkyYTFjOGRlNDk0XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+            "personagem":"Carol Danvers"
+         },
+         {
+            "nome":"Iman Vellani",
+            "foto":"https://hips.hearstapps.com/hmg-prod/images/gettyimages-1399436575.jpg",
+            "personagem":"Kamala Khan"
+         },
+         {
+            "nome":"Teyonah Parris",
+            "foto":"https://br.web.img3.acsta.net/pictures/16/07/14/21/31/325074.jpg",
+            "personagem":"Monica Rambeau"
+         },
+         {
+            "nome":"Zawe Ashton",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/7/72/Zawe_ashton_2021_1.jpg",
+            "personagem":"Dar-Benn"
+         },
+         {
+            "nome":"samuel L. Jackson",
+            "foto":"https://s2.glbimg.com/9ttodPHQNotM1IlqpijsyTthZQM=/0x0:400x400/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2023/c/6/e8TZMyStqGAlvG034WjA/c0ec2mtu-400x400.jpg",
+            "personagem":"Nick Fury"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":6,
+         "RottenCriticos":62,
+         "RottenPublico":82,
+         "Metacritic":50,
+         "Letterboxd":2.9
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://versus.com.br/wp-content/uploads/2023/09/image-812.png",
+      "servicos":[
+         {
+            "streaming":"s9"
+         }
+      ]
+   },
+   {
+      "id":"FR-26",
+      "titulo":"Trocados",
+      "sinopse":"Com Jennifer Garner e Ed Helms no elenco, a trama segue uma família que, no dia mais importante de suas vidas, acabam trocando de corpo um com o outro. Com um pouco mais de uma hora e meia de duração, o longa-metragem é uma produção original da Netflix com o roteiro assinado por Adam Sztykiel e Victoria Strouse.",
+      "generos":[
+         {
+            "nome":"g3"
+         }
+      ],
+      "ano":2023,
+      "duracao":"1h 45m",
+      "direcao":"McG",
+      "classificacao":"Livre",
+      "elenco":[
+         {
+            "nome":"Jennifer Garner",
+            "foto":"https://br.web.img3.acsta.net/pictures/18/09/24/21/59/3858181.jpg",
+            "personagem":"Jess Walker"
+         },
+         {
+            "nome":"Ed Helms",
+            "foto":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/274723_v9_bb.jpg",
+            "personagem":"Bill Walker"
+         },
+         {
+            "nome":"Emma Myers",
+            "foto":"https://br.web.img3.acsta.net/pictures/22/11/29/19/54/5215983.jpg",
+            "personagem":"CC"
+         },
+         {
+            "nome":"Brady Noon",
+            "foto":"https://image.tmdb.org/t/p/w500/mbgwWA1uVXQ09T7jxs2D333O2JN.jpg",
+            "personagem":"Wyatt"
+         },
+         {
+            "nome":"Matthias Schweighöfer",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMTA5ODI2NDEwNzleQTJeQWpwZ15BbWU4MDQxMjU1NzAy._V1_.jpg",
+            "personagem":"Rolf"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":5.7,
+         "RottenCriticos":45,
+         "RottenPublico":60,
+         "Metacritic":37,
+         "Letterboxd":2.6
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://m.media-amazon.com/images/M/MV5BZTRkZjMyMDktNDAyMi00NWI1LWFmMGUtOGY4OWQxODZiOTk5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         }
+      ]
+   },
+   {
+      "id":"FR-27",
+      "titulo":"De Repente Uma Família",
+      "sinopse":"Com Jennifer Garner e Ed Helms no elenco, a trama segue uma família que, no dia mais importante de suas vidas, acabam trocando de corpo um com o outro. Com um pouco mais de uma hora e meia de duração, o longa-metragem é uma produção original da Netflix com o roteiro assinado por Adam Sztykiel e Victoria Strouse.",
+      "generos":[
+         {
+            "nome":"g3"
+         },
+         {
+            "nome":"g5"
+         }
+      ],
+      "ano":2018,
+      "duracao":"1h 59m",
+      "direcao":"Sean Anders",
+      "classificacao":"12-anos",
+      "elenco":[
+         {
+            "nome":"Rose Byrne",
+            "foto":"https://images.mubicdn.net/images/cast_member/16198/cache-4103-1611519826/image-w856.jpg",
+            "personagem":"Ellie Wagner"
+         },
+         {
+            "nome":"Mark Wahlberg",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Pete Wagner"
+         },
+         {
+            "nome":"Isabela Merced",
+            "foto":"https://br.web.img3.acsta.net/pictures/19/11/12/22/21/1026716.jpg",
+            "personagem":"Lizzy Viara"
+         },
+         {
+            "nome":"Octavia Spencer",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Octavia_Spencer_2016.jpg/1200px-Octavia_Spencer_2016.jpg",
+            "personagem":"Karen"
+         },
+         {
+            "nome":"Tig Notaro",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tig_Notaro_by_Gage_Skidmore.jpg/1200px-Tig_Notaro_by_Gage_Skidmore.jpg",
+            "personagem":"Sharon"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.3,
+         "RottenCriticos":82,
+         "RottenPublico":83,
+         "Metacritic":57,
+         "Letterboxd":3.4
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://br.web.img3.acsta.net/pictures/18/10/05/18/29/2308941.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s7"
+         }
+      ]
+   },
+   {
+      "id":"FR-28",
+      "titulo":"Oppenheimer",
+      "sinopse":"O físico J. Robert Oppenheimer trabalha com uma equipe de cientistas durante o Projeto Manhattan, levando ao desenvolvimento da bomba atômica.",
+      "generos":[
+         {
+            "nome":"g15"
+         },
+         {
+            "nome":"g16"
+         }
+      ],
+      "ano":2023,
+      "duracao":"3 horas",
+      "direcao":"Christopher Nolan",
+      "classificacao":"16-anos",
+      "elenco":[
+         {
+            "nome":"Cillian Murphy",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cillian_Murphy-2014.jpg/1200px-Cillian_Murphy-2014.jpg",
+            "personagem":"J. Robert Oppenheimer"
+         },
+         {
+            "nome":"Florence Pugh",
+            "foto":"https://cdn.britannica.com/20/217320-050-181C95DC/English-actor-Florence-Pugh-2019.jpg",
+            "personagem":"Jean Tatlock"
+         },
+         {
+            "nome":"Robert Downey Jr.",
+            "foto":"https://static.wikia.nocookie.net/universo-616-marvel/images/a/a5/Robert_Downey_Jr.jpg/revision/latest?cb=20140503165144&path-prefix=pt-br",
+            "personagem":"Lewis Strauss"
+         },
+         {
+            "nome":"Emily Blunt",
+            "foto":"https://br.web.img3.acsta.net/pictures/18/08/14/17/03/0092037.jpg",
+            "personagem":"Katherine Oppenheimer"
+         },
+         {
+            "nome":"Matt Damon",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Leslie Groves"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":8.4,
+         "RottenCriticos":93,
+         "RottenPublico":91,
+         "Metacritic":88,
+         "Letterboxd":4.3
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://br.web.img3.acsta.net/pictures/18/10/05/18/29/2308941.jpg",
+      "servicos":[
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-29",
+      "titulo":"Sobrenatural: A Porta Vermelha",
+      "sinopse":"Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
+      "generos":[
+         {
+            "nome":"g14"
+         },
+         {
+            "nome":"g13"
+         }
+      ],
+      "ano":2023,
+      "duracao":"1h 47m",
+      "direcao":"Patrick Wilson",
+      "classificacao":"12-anos",
+      "elenco":[
+         {
+            "nome":"Patrick Wilson",
+            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "personagem":"Josh Lambert"
+         },
+         {
+            "nome":"Ty Simpkins",
+            "foto":"https://pbs.twimg.com/media/Fa28pnAXwAACD4Z?format=jpg",
+            "personagem":"Dalton Lambert"
+         },
+         {
+            "nome":"Rose Byrne",
+            "foto":"https://images.mubicdn.net/images/cast_member/16198/cache-4103-1611519826/image-w856.jpg",
+            "personagem":"Renai Lambert"
+         },
+         {
+            "nome":"Lin Shaye",
+            "foto":"https://images.mubicdn.net/images/cast_member/30194/cache-199860-1486958079/image-w856.jpg",
+            "personagem":"Elise"
+         },
+         {
+            "nome":"Sinclair Daniel",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Chris Winslow"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":5.5,
+         "RottenCriticos":37,
+         "RottenPublico":70,
+         "Metacritic":45,
+         "Letterboxd":2.4
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"3"
+         }
+      ],
+      "imagem":"https://uploads.jovemnerd.com.br/wp-content/uploads/2023/06/sobrenatural_a_porta_vermelha_poster__v6eo60-760x1126.png",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s6"
+         },
+         {
+            "streaming":"s3"
+         }
+      ]
+   },
+   {
+      "id":"FR-30",
+      "titulo":"The Flash",
+      "sinopse":"Os mundos colidem quando Flash viaja no tempo para mudar os eventos do passado. No entanto, quando sua tentativa de salvar sua família altera o futuro, ele fica preso em uma realidade na qual o General Zod voltou, ameaçando a aniquilação.",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g8"
+         }
+      ],
+      "ano":2023,
+      "duracao":"2h 24m",
+      "direcao":"Andy Muschietti",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "nome":"Ezra Miller",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ezra_Miller_by_Gage_Skidmore_2.jpg/800px-Ezra_Miller_by_Gage_Skidmore_2.jpg",
+            "personagem":"Barry Allen"
+         },
+         {
+            "nome":"Michael Keaton",
+            "foto":"https://static.wikia.nocookie.net/disney/images/1/1c/Michael_Keaton.jpg",
+            "personagem":"Batman"
+         },
+         {
+            "nome":"Ben Affleck",
+            "foto":"https://m.media-amazon.com/images/M/MV5BMzczNzNiMDAtMmUzZS00MTkwLWIwOTYtNmYyNjg3MTVkNThhXkEyXkFqcGdeQXVyMjA4MjI5MTA@._V1_FMjpg_UX1000_.jpg",
+            "personagem":"Batman"
+         },
+         {
+            "nome":"Sasha Calle",
+            "foto":"https://br.web.img2.acsta.net/pictures/21/02/19/23/45/3616016.jpg",
+            "personagem":"Supergirl"
+         },
+         {
+            "nome":"Kiersey Clemons",
+            "foto":"https://static.wikia.nocookie.net/dublagempedia/images/2/2d/Kiersey_Clemons.jpg/revision/latest?cb=20210307005432&path-prefix=pt-br",
+            "personagem":"Iris Allen"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":6.7,
+         "RottenCriticos":63,
+         "RottenPublico":83,
+         "Metacritic":55,
+         "Letterboxd":2.7
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"2"
+         }
+      ],
+      "imagem":"https://www.europanet.com.br/upload/id_produto/45_____/4500101g.jpg",
+      "servicos":[
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s6"
+         }
+      ]
+   },
+   {
+      "id":"FR-31",
+      "titulo":"Jogos Vorazes",
+      "sinopse":"Na região antigamente conhecida como América do Norte, a Capital de Panem controla 12 distritos e os força a escolher um garoto e uma garota, conhecidos como tributos, para competir em um evento anual televisionado. Todos os cidadãos assistem aos temidos jogos, no qual os jovens lutam até a morte, de modo que apenas um saia vitorioso. A jovem Katniss Everdeen, do Distrito 12, confia na habilidade de caça e na destreza com o arco, além dos instintos aguçados, nesta competição mortal.   ",
+      "generos":[
+         {
+            "nome":"g1"
+         },
+         {
+            "nome":"g4"
+         }
+      ],
+      "ano":2012,
+      "duracao":"2h 22m",
+      "direcao":"Gary Ross",
+      "classificacao":"14-anos",
+      "elenco":[
+         {
+            "nome":"Jennifer Lawrence",
+            "foto":"https://f.i.uol.com.br/fotografia/2022/11/10/1668115418636d6bda507ce_1668115418_3x2_md.jpg",
+            "personagem":"Katniss Everdeen"
+         },
+         {
+            "nome":"Josh Hutcherson",
+            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Josh_Hutcherson_SDCC_2015.jpg/1200px-Josh_Hutcherson_SDCC_2015.jpg",
+            "personagem":"Peeta Mellark"
+         },
+         {
+            "nome":"Liam Hemsworth",
+            "foto":"https://br.web.img2.acsta.net/c_310_420/pictures/19/03/08/22/08/0890523.jpg",
+            "personagem":"Gale Hawthorne"
+         },
+         {
+            "nome":"Elizabeth Banks",
+            "foto":"https://br.web.img3.acsta.net/pictures/19/09/05/00/04/0846887.jpg",
+            "personagem":"Effie Trinket"
+         },
+         {
+            "nome":"Woody Harrelson",
+            "foto":"https://cdn.britannica.com/28/221828-050-D5F314EE/American-actor-Woody-Harrelson-2018.jpg",
+            "personagem":"Haymitch Abernathy"
+         },
+         {
+            "nome":"Lenny Kravitz",
+            "foto":"https://images.squarespace-cdn.com/content/v1/57dd78a2b8a79bb3c4494a94/1526921592224-GX0RR3S4LVNHTMMN9SF5/Lenny_Kravitz_by_Gage_Skidmore.jpg",
+            "personagem":"Cinna"
+         },
+         {
+            "nome":"Donald Sutherland",
+            "foto":"https://cdn.britannica.com/82/212282-050-8D836E10/Donald-Sutherland-Canadian-actor-2014.jpg",
+            "personagem":"Presidente Snow"
+         },
+         {
+            "nome":"Alexander Ludwig",
+            "foto":"https://ntvb.tmsimg.com/assets/assets/503860_v9_bc.jpg",
+            "personagem":"Cato"
+         }
+      ],
+      "pontuacao":{
+         "IMDB":7.2,
+         "RottenCriticos":84,
+         "RottenPublico":81,
+         "Metacritic":68,
+         "Letterboxd":3.6
+      },
+      "Flick":[
+         {
+            "especialista":"Caio Goulart",
+            "foto":"https://caiogbdesign.github.io/flick/caio-goulart-flick.jpg",
+            "avaliacao":"4"
+         }
+      ],
+      "imagem":"https://2.bp.blogspot.com/-WaSgDven-ik/UkrxXYMviVI/AAAAAAAAcgE/-rivRdc5uFE/s1600/Jogos-vorazes-em-chamas-poster.jpg",
+      "servicos":[
+         {
+            "streaming":"s1"
+         },
+         {
+            "streaming":"s2"
+         },
+         {
+            "streaming":"s3"
+         },
+         {
+            "streaming":"s6"
+         },
+         {
+            "streaming":"s7"
+         }
+      ]
+   }
+]
