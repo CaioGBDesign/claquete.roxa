@@ -1492,33 +1492,27 @@
       "classificacao":"12-anos",
       "elenco":[
          {
-            "nome":"Sandra Bullock",
-            "foto":"https://br.web.img3.acsta.net/pictures/18/06/22/19/24/3056694.jpg",
+            "IDator":"sandra-bullock",
             "personagem":"Leigh Anne Tuohy"
          },
          {
-            "nome":"Quinton Aaron",
-            "foto":"https://m.media-amazon.com/images/M/MV5BODQ3Y2JhZGYtY2I3Yy00M2Y3LWE3YzYtYWZiMDI4YjQwMzRmXkEyXkFqcGdeQXVyNDUzNjIxMzg@._V1_.jpg",
+            "IDator":"quinton-aaron",
             "personagem":"Michael Oher"
          },
          {
-            "nome":"Tim McGraw",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMjcyNTkyOTY4OV5BMl5BanBnXkFtZTcwODI2NzQ5Mg@@._V1_FMjpg_UY2048_.jpg",
+            "IDator":"tim-mcGraw",
             "personagem":"Sean Tuohy"
          },
          {
-            "nome":"Lily Collins",
-            "foto":"https://br.web.img2.acsta.net/pictures/19/03/08/16/43/0584669.jpg",
+            "IDator":"lily-collins",
             "personagem":"Collins Tuohy"
          },
          {
-            "nome":"Kathy Bates",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Kathy_Bates_by_Gage_Skidmore.jpg",
+            "IDator":"kathy-bates",
             "personagem":"Miss Sue"
          },
          {
-            "nome":"Jae Head",
-            "foto":"https://images.mubicdn.net/images/cast_member/118455/cache-323874-1521932747/image-w856.jpg",
+            "IDator":"jae-head",
             "personagem":"S.J Tuohy"
          }
       ],
@@ -1564,33 +1558,27 @@
       "classificacao":"14-anos",
       "elenco":[
          {
-            "nome":"Sofia Wylie",
-            "foto":"https://br.web.img2.acsta.net/pictures/19/12/26/21/20/2686220.jpg",
+            "IDator":"sofia-wylie",
             "personagem":"Agatha"
          },
          {
-            "nome":"Sophia Anne Caruso",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/3/3f/SophiaAnneCaruso.jpg",
+            "IDator":"sophia-anne-caruso",
             "personagem":"Sophie"
          },
          {
-            "nome":"Charlize Theron",
-            "foto":"https://s2-quem.glbimg.com/cXk7Mh8osUYJj_i0dYX-H3i7PdQ=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2023/7/l/Xs0jdWTSWlJBBzGzOpDg/charlize-theron-tapete-vermelho-mad-max-cannes-2015-getty-images.jpg",
+            "IDator":"charlize-theron",
             "personagem":"Lady Lesso"
          },
          {
-            "nome":"Kerry Washington",
-            "foto":"https://static01.nyt.com/images/2023/09/24/multimedia/24KERRYWASHINGTON-06-zmgq/24KERRYWASHINGTON-06-zmgq-mediumSquareAt3X-v2.jpg",
+            "IDator":"kerry-washington",
             "personagem":"Professor Dovey"
          },
          {
-            "nome":"Laurence Fishburne",
-            "foto":"https://images.mubicdn.net/images/cast_member/23689/cache-612517-1632507833/image-w856.jpg?size=800x",
+            "IDator":"laurence-fishburne",
             "personagem":"The Schoolmaster"
          },
          {
-            "nome":"Kit Young",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMmRiODJjZjAtMGIyNy00ZGZlLTgwN2YtMTBiYzY1YTY0MzA2XkEyXkFqcGdeQXVyODg2OTM2MDc@._V1_.jpg",
+            "IDator":"kit-young",
             "personagem":"Rafal"
          }
       ],
@@ -1633,33 +1621,27 @@
       "classificacao":"14-anos",
       "elenco":[
          {
-            "nome":"Taissa Farmiga",
-            "foto":"https://pm1.aminoapps.com/6361/06df6e13f339d1352728a9338a6d0ccc755881fe_hq.jpg",
+            "IDator":"taissa-farmiga",
             "personagem":"Irmã Irene"
          },
          {
-            "nome":"Bonnie Aarons",
-            "foto":"https://br.web.img3.acsta.net/pictures/18/06/13/15/12/4248937.jpg",
+            "IDator":"bonnie-aarons",
             "personagem":"A Freira"
          },
          {
-            "nome":"Jonas Bloquet",
-            "foto":"https://i.pinimg.com/736x/54/03/f7/5403f79c0b3d9014a9f91e8daaf50a5c.jpg",
+            "IDator":"jonas-bloquet",
             "personagem":"Frenchie"
          },
          {
-            "nome":"Vera Farmiga",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vera_Farmiga_by_Gage_Skidmore.jpg/330px-Vera_Farmiga_by_Gage_Skidmore.jpg",
+            "IDator":"vera-farmiga",
             "personagem":"Lorraine Warren"
          },
          {
-            "nome":"Patrick Wilson",
-            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "IDator":"patrick-wilson",
             "personagem":"Ed Warren"
          },
          {
-            "nome":"Ingrid Bisu",
-            "foto":"https://m.media-amazon.com/images/M/MV5BYzRlMWZkNDItZTk3YS00MDM2LWIwMzYtOTkwMTY0YWEzYzM2XkEyXkFqcGdeQXVyOTIzMzc2NQ@@._V1_FMjpg_UX1000_.jpg",
+            "IDator":"ingrid-bisu",
             "personagem":"Irmã Oana"
          }
       ],
@@ -1705,38 +1687,31 @@
       "classificacao":"16-anos",
       "elenco":[
          {
-            "nome":"Taissa Farmiga",
-            "foto":"https://pm1.aminoapps.com/6361/06df6e13f339d1352728a9338a6d0ccc755881fe_hq.jpg",
+            "IDator":"taissa-farmiga",
             "personagem":"Irmã Irene"
          },
          {
-            "nome":"Bonnie Aarons",
-            "foto":"https://br.web.img3.acsta.net/pictures/18/06/13/15/12/4248937.jpg",
+            "IDator":"bonnie-aarons",
             "personagem":"A Freira"
          },
          {
-            "nome":"Jonas Bloquet",
-            "foto":"https://i.pinimg.com/736x/54/03/f7/5403f79c0b3d9014a9f91e8daaf50a5c.jpg",
+            "IDator":"jonas-bloquet",
             "personagem":"Frenchie"
          },
          {
-            "nome":"Vera Farmiga",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vera_Farmiga_by_Gage_Skidmore.jpg/330px-Vera_Farmiga_by_Gage_Skidmore.jpg",
+            "IDator":"vera-farmiga",
             "personagem":"Lorraine Warren"
          },
          {
-            "nome":"Patrick Wilson",
-            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "IDator":"patrick-wilson",
             "personagem":"Ed Warren"
          },
          {
-            "nome":"Anna Popplewell",
-            "foto":"https://i.pinimg.com/736x/26/ec/54/26ec545072d33571ea05f7a49c8c95a8.jpg",
+            "IDator":"anna-popplewell",
             "personagem":"Kate"
          },
          {
-            "nome":"Storm Reid",
-            "foto":"https://www.beautycrew.com.au/media/49572/storm-reid-p.jpg",
+            "IDator":"storm-reid",
             "personagem":"Debra"
          }
       ],
@@ -1785,28 +1760,23 @@
       "classificacao":"Livre",
       "elenco":[
          {
-            "nome":"Brie Larson",
-            "foto":"https://m.media-amazon.com/images/M/MV5BNDE4ZWY1ZTUtYjNhMy00MTQyLWFmMjktNTkyYTFjOGRlNDk0XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+            "IDator":"brie-larson",
             "personagem":"Carol Danvers"
          },
          {
-            "nome":"Iman Vellani",
-            "foto":"https://hips.hearstapps.com/hmg-prod/images/gettyimages-1399436575.jpg",
+            "IDator":"iman-vellani",
             "personagem":"Kamala Khan"
          },
          {
-            "nome":"Teyonah Parris",
-            "foto":"https://br.web.img3.acsta.net/pictures/16/07/14/21/31/325074.jpg",
+            "IDator":"teyonah-parris",
             "personagem":"Monica Rambeau"
          },
          {
-            "nome":"Zawe Ashton",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/7/72/Zawe_ashton_2021_1.jpg",
+            "IDator":"zawe-ashton",
             "personagem":"Dar-Benn"
          },
          {
-            "nome":"samuel L. Jackson",
-            "foto":"https://s2.glbimg.com/9ttodPHQNotM1IlqpijsyTthZQM=/0x0:400x400/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e7c91519bbbb4fadb4e509085746275d/internal_photos/bs/2023/c/6/e8TZMyStqGAlvG034WjA/c0ec2mtu-400x400.jpg",
+            "IDator":"samuel-l-jackson",
             "personagem":"Nick Fury"
          }
       ],
@@ -1846,29 +1816,24 @@
       "classificacao":"Livre",
       "elenco":[
          {
-            "nome":"Jennifer Garner",
-            "foto":"https://br.web.img3.acsta.net/pictures/18/09/24/21/59/3858181.jpg",
+            "IDator  ":"jennifer-garner",
             "personagem":"Jess Walker"
          },
          {
-            "nome":"Ed Helms",
-            "foto":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/274723_v9_bb.jpg",
-            "personagem":"Bill Walker"
+            "IDator": "ed-helms",
+            "personagem": "Bill Walker"
          },
          {
-            "nome":"Emma Myers",
-            "foto":"https://br.web.img3.acsta.net/pictures/22/11/29/19/54/5215983.jpg",
-            "personagem":"CC"
+            "IDator": "emma-myers",
+            "personagem": "CC"
          },
          {
-            "nome":"Brady Noon",
-            "foto":"https://image.tmdb.org/t/p/w500/mbgwWA1uVXQ09T7jxs2D333O2JN.jpg",
-            "personagem":"Wyatt"
+            "IDator": "brady-noon",
+            "personagem": "Wyatt"
          },
          {
-            "nome":"Matthias Schweighöfer",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMTA5ODI2NDEwNzleQTJeQWpwZ15BbWU4MDQxMjU1NzAy._V1_.jpg",
-            "personagem":"Rolf"
+            "IDator": "matthias-schweighoefer",
+            "personagem": "Rolf"
          }
       ],
       "pontuacao":{
@@ -1910,28 +1875,23 @@
       "classificacao":"12-anos",
       "elenco":[
          {
-            "nome":"Rose Byrne",
-            "foto":"https://images.mubicdn.net/images/cast_member/16198/cache-4103-1611519826/image-w856.jpg",
+            "IDator":"rose-byrne",
             "personagem":"Ellie Wagner"
          },
          {
-            "nome":"Mark Wahlberg",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_FMjpg_UX1000_.jpg",
+            "IDator":"mark-wahlberg",
             "personagem":"Pete Wagner"
          },
          {
-            "nome":"Isabela Merced",
-            "foto":"https://br.web.img3.acsta.net/pictures/19/11/12/22/21/1026716.jpg",
+            "IDator":"isabela-merced",
             "personagem":"Lizzy Viara"
          },
          {
-            "nome":"Octavia Spencer",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Octavia_Spencer_2016.jpg/1200px-Octavia_Spencer_2016.jpg",
+            "IDator":"octavia-spencer",
             "personagem":"Karen"
          },
          {
-            "nome":"Tig Notaro",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tig_Notaro_by_Gage_Skidmore.jpg/1200px-Tig_Notaro_by_Gage_Skidmore.jpg",
+            "IDator":"tig-notaro",
             "personagem":"Sharon"
          }
       ],
@@ -1980,28 +1940,23 @@
       "classificacao":"16-anos",
       "elenco":[
          {
-            "nome":"Cillian Murphy",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cillian_Murphy-2014.jpg/1200px-Cillian_Murphy-2014.jpg",
+            "IDator":"cillian-murphy",
             "personagem":"J. Robert Oppenheimer"
          },
          {
-            "nome":"Florence Pugh",
-            "foto":"https://cdn.britannica.com/20/217320-050-181C95DC/English-actor-Florence-Pugh-2019.jpg",
+            "IDator":"florence-pugh",
             "personagem":"Jean Tatlock"
          },
          {
-            "nome":"Robert Downey Jr.",
-            "foto":"https://static.wikia.nocookie.net/universo-616-marvel/images/a/a5/Robert_Downey_Jr.jpg/revision/latest?cb=20140503165144&path-prefix=pt-br",
+            "IDator":"robert-downey-jr",
             "personagem":"Lewis Strauss"
          },
          {
-            "nome":"Emily Blunt",
-            "foto":"https://br.web.img3.acsta.net/pictures/18/08/14/17/03/0092037.jpg",
+            "IDator":"emily-blunt",
             "personagem":"Katherine Oppenheimer"
          },
          {
-            "nome":"Matt Damon",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+            "IDator":"matt-damon",
             "personagem":"Leslie Groves"
          }
       ],
@@ -2044,28 +1999,23 @@
       "classificacao":"12-anos",
       "elenco":[
          {
-            "nome":"Patrick Wilson",
-            "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg",
+            "IDator":"patrick-wilson",
             "personagem":"Josh Lambert"
          },
          {
-            "nome":"Ty Simpkins",
-            "foto":"https://pbs.twimg.com/media/Fa28pnAXwAACD4Z?format=jpg",
+            "IDator":"ty-simpkins",
             "personagem":"Dalton Lambert"
          },
          {
-            "nome":"Rose Byrne",
-            "foto":"https://images.mubicdn.net/images/cast_member/16198/cache-4103-1611519826/image-w856.jpg",
+            "IDator":"rose-byrne",
             "personagem":"Renai Lambert"
          },
          {
-            "nome":"Lin Shaye",
-            "foto":"https://images.mubicdn.net/images/cast_member/30194/cache-199860-1486958079/image-w856.jpg",
+            "IDator":"lin-shaye",
             "personagem":"Elise"
          },
          {
-            "nome":"Sinclair Daniel",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+            "IDator":"sinclair-daniel",
             "personagem":"Chris Winslow"
          }
       ],
@@ -2114,28 +2064,23 @@
       "classificacao":"14-anos",
       "elenco":[
          {
-            "nome":"Ezra Miller",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ezra_Miller_by_Gage_Skidmore_2.jpg/800px-Ezra_Miller_by_Gage_Skidmore_2.jpg",
+            "IDator":"ezra-miller",
             "personagem":"Barry Allen"
          },
          {
-            "nome":"Michael Keaton",
-            "foto":"https://static.wikia.nocookie.net/disney/images/1/1c/Michael_Keaton.jpg",
+            "IDator":"michael-keaton",
             "personagem":"Batman"
          },
          {
-            "nome":"Ben Affleck",
-            "foto":"https://m.media-amazon.com/images/M/MV5BMzczNzNiMDAtMmUzZS00MTkwLWIwOTYtNmYyNjg3MTVkNThhXkEyXkFqcGdeQXVyMjA4MjI5MTA@._V1_FMjpg_UX1000_.jpg",
+            "IDator":"ben-affleck",
             "personagem":"Batman"
          },
          {
-            "nome":"Sasha Calle",
-            "foto":"https://br.web.img2.acsta.net/pictures/21/02/19/23/45/3616016.jpg",
+            "IDator":"sasha-calle",
             "personagem":"Supergirl"
          },
          {
-            "nome":"Kiersey Clemons",
-            "foto":"https://static.wikia.nocookie.net/dublagempedia/images/2/2d/Kiersey_Clemons.jpg/revision/latest?cb=20210307005432&path-prefix=pt-br",
+            "IDator":"kiersey-clemons",
             "personagem":"Iris Allen"
          }
       ],
@@ -2181,43 +2126,35 @@
       "classificacao":"14-anos",
       "elenco":[
          {
-            "nome":"Jennifer Lawrence",
-            "foto":"https://f.i.uol.com.br/fotografia/2022/11/10/1668115418636d6bda507ce_1668115418_3x2_md.jpg",
+            "IDator":"jennifer-lawrence",
             "personagem":"Katniss Everdeen"
          },
          {
-            "nome":"Josh Hutcherson",
-            "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Josh_Hutcherson_SDCC_2015.jpg/1200px-Josh_Hutcherson_SDCC_2015.jpg",
+            "IDator":"josh-hutcherson",
             "personagem":"Peeta Mellark"
          },
          {
-            "nome":"Liam Hemsworth",
-            "foto":"https://br.web.img2.acsta.net/c_310_420/pictures/19/03/08/22/08/0890523.jpg",
+            "IDator":"liam-hemsworth",
             "personagem":"Gale Hawthorne"
          },
          {
-            "nome":"Elizabeth Banks",
-            "foto":"https://br.web.img3.acsta.net/pictures/19/09/05/00/04/0846887.jpg",
+            "IDator":"elizabeth-banks",
             "personagem":"Effie Trinket"
          },
          {
-            "nome":"Woody Harrelson",
-            "foto":"https://cdn.britannica.com/28/221828-050-D5F314EE/American-actor-Woody-Harrelson-2018.jpg",
+            "IDator":"woody-harrelson",
             "personagem":"Haymitch Abernathy"
          },
          {
-            "nome":"Lenny Kravitz",
-            "foto":"https://images.squarespace-cdn.com/content/v1/57dd78a2b8a79bb3c4494a94/1526921592224-GX0RR3S4LVNHTMMN9SF5/Lenny_Kravitz_by_Gage_Skidmore.jpg",
+            "IDator":"lenny-kravitz",
             "personagem":"Cinna"
          },
          {
-            "nome":"Donald Sutherland",
-            "foto":"https://cdn.britannica.com/82/212282-050-8D836E10/Donald-Sutherland-Canadian-actor-2014.jpg",
+            "IDator":"donald-sutherland",
             "personagem":"Presidente Snow"
          },
          {
-            "nome":"Alexander Ludwig",
-            "foto":"https://ntvb.tmsimg.com/assets/assets/503860_v9_bc.jpg",
+            "IDator":"alexander-ludwig",
             "personagem":"Cato"
          }
       ],
