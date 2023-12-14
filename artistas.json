@@ -256,7 +256,7 @@
 
  },
  {
-      "IDator":"uma-thurman",
+   "IDator":"uma-thurman",
     "nome":"Uma Thurman",
     "foto":"https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_FMjpg_UX1000_.jpg"
  },
@@ -384,5 +384,275 @@
    "IDator":"mykelti-williamson",
     "nome":"Mykelti Williamson",
     "foto":"https://flxt.tmsimg.com/assets/47337_v9_bc.jpg"
- }
+ },
+ {
+   "IDator":"sandra-bullock",
+   "nome":"Sandra Bullock",
+   "foto":"https://br.web.img3.acsta.net/pictures/18/06/22/19/24/3056694.jpg"
+ },
+ {
+   "IDator":"quinton-aaron",
+   "nome":"Quinton Aaron",
+   "foto":"https://m.media-amazon.com/images/M/MV5BODQ3Y2JhZGYtY2I3Yy00M2Y3LWE3YzYtYWZiMDI4YjQwMzRmXkEyXkFqcGdeQXVyNDUzNjIxMzg@._V1_.jpg"
+ },
+ {
+   "IDator":"tim-mcGraw",
+   "nome":"Tim McGraw",
+   "foto":"https://m.media-amazon.com/images/M/MV5BMjcyNTkyOTY4OV5BMl5BanBnXkFtZTcwODI2NzQ5Mg@@._V1_FMjpg_UY2048_.jpg"
+ },
+ {
+   "IDator":"lily-collins",
+   "nome":"Lily Collins",
+   "foto":"https://br.web.img2.acsta.net/pictures/19/03/08/16/43/0584669.jpg"
+ },
+ {
+   "IDator":"kathy-bates",
+   "nome":"Kathy Bates",
+   "foto":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Kathy_Bates_by_Gage_Skidmore.jpg"
+ },
+ {
+   "IDator":"jae-head",
+   "nome":"Jae Head",
+   "foto":"https://images.mubicdn.net/images/cast_member/118455/cache-323874-1521932747/image-w856.jpg"
+ },
+ {
+   "IDator":"sofia-wylie",
+   "nome":"Sofia Wylie",
+   "foto":"https://br.web.img2.acsta.net/pictures/19/12/26/21/20/2686220.jpg"
+ },
+ {
+   "IDator":"sophia-anne-caruso",
+   "nome":"Sophia Anne Caruso",
+   "foto":"https://upload.wikimedia.org/wikipedia/commons/3/3f/SophiaAnneCaruso.jpg"
+ },
+ {
+   "IDator":"charlize-theron",
+   "nome":"Charlize Theron",
+   "foto":"https://s2-quem.glbimg.com/cXk7Mh8osUYJj_i0dYX-H3i7PdQ=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2023/7/l/Xs0jdWTSWlJBBzGzOpDg/charlize-theron-tapete-vermelho-mad-max-cannes-2015-getty-images.jpg"
+ },
+ {
+   "IDator":"kerry-washington",
+   "nome":"Kerry Washington",
+   "foto":"https://static01.nyt.com/images/2023/09/24/multimedia/24KERRYWASHINGTON-06-zmgq/24KERRYWASHINGTON-06-zmgq-mediumSquareAt3X-v2.jpg"
+ },
+ {
+   "IDator":"laurence-fishburne",
+   "nome":"Laurence Fishburne",
+   "foto":"https://images.mubicdn.net/images/cast_member/23689/cache-612517-1632507833/image-w856.jpg?size=800x"
+ },
+ {
+   "IDator":"kit-young",
+   "nome":"Kit Young",
+   "foto":"https://m.media-amazon.com/images/M/MV5BMmRiODJjZjAtMGIyNy00ZGZlLTgwN2YtMTBiYzY1YTY0MzA2XkEyXkFqcGdeQXVyODg2OTM2MDc@._V1_.jpg"
+ },
+ {
+   "IDator":"taissa-farmiga",
+   "nome":"Taissa Farmiga",
+   "foto":"https://pm1.aminoapps.com/6361/06df6e13f339d1352728a9338a6d0ccc755881fe_hq.jpg"
+ },
+ {
+   "IDator":"bonnie-aarons",
+   "nome":"Bonnie Aarons",
+   "foto":"https://br.web.img3.acsta.net/pictures/18/06/13/15/12/4248937.jpg"
+ },
+ {
+   "IDator":"jonas-bloquet",
+   "nome":"Jonas Bloquet",
+   "foto":"https://i.pinimg.com/736x/54/03/f7/5403f79c0b3d9014a9f91e8daaf50a5c.jpg"
+ },
+ {
+   "IDator":"vera-farmiga",
+   "nome":"Vera Farmiga",
+   "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vera_Farmiga_by_Gage_Skidmore.jpg/330px-Vera_Farmiga_by_Gage_Skidmore.jpg"
+ },
+ {
+   "IDator":"patrick-wilson",
+   "nome":"Patrick Wilson",
+   "foto":"https://f.i.uol.com.br/fotografia/2022/02/10/1644524261620572e50784e_1644524261_3x4_md.jpg"
+ },
+ {
+   "IDator":"ingrid-bisu",
+   "nome":"Ingrid Bisu",
+   "foto":"https://m.media-amazon.com/images/M/MV5BYzRlMWZkNDItZTk3YS00MDM2LWIwMzYtOTkwMTY0YWEzYzM2XkEyXkFqcGdeQXVyOTIzMzc2NQ@@._V1_FMjpg_UX1000_.jpg"
+ },
+ {
+   "IDator":"anna-popplewell",
+   "nome":"Anna Popplewell",
+   "foto":"https://i.pinimg.com/736x/26/ec/54/26ec545072d33571ea05f7a49c8c95a8.jpg"
+ },
+ {
+   "IDator":"storm-reid",
+   "nome":"Storm Reid",
+   "foto":"https://www.beautycrew.com.au/media/49572/storm-reid-p.jpg"
+ },
+ {
+   "IDator":"brie-larson",
+   "nome":"Brie Larson",
+   "foto":"https://m.media-amazon.com/images/M/MV5BNDE4ZWY1ZTUtYjNhMy00MTQyLWFmMjktNTkyYTFjOGRlNDk0XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg"
+ },
+ {
+   "IDator":"iman-vellani",
+   "nome":"Iman Vellani",
+   "foto":"https://hips.hearstapps.com/hmg-prod/images/gettyimages-1399436575.jpg"
+ },
+ {
+   "IDator":"teyonah-parris",
+   "nome":"Teyonah Parris",
+   "foto":"https://br.web.img3.acsta.net/pictures/16/07/14/21/31/325074.jpg"
+ },
+ {
+   "IDator":"zawe-ashton",
+   "nome":"Zawe Ashton",
+   "foto":"https://upload.wikimedia.org/wikipedia/commons/7/72/Zawe_ashton_2021_1.jpg"
+ },
+   {
+       "IDator": "ed-helms",
+       "nome": "Ed Helms",
+       "foto": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/274723_v9_bb.jpg"
+   },
+   {
+       "IDator": "emma-myers",
+       "nome": "Emma Myers",
+       "foto": "https://br.web.img3.acsta.net/pictures/22/11/29/19/54/5215983.jpg"
+   },
+   {
+       "IDator": "brady-noon",
+       "nome": "Brady Noon",
+       "foto": "https://image.tmdb.org/t/p/w500/mbgwWA1uVXQ09T7jxs2D333O2JN.jpg"
+   },
+   {
+       "IDator": "matthias-schweighoefer",
+       "nome": "Matthias Schweighöfer",
+       "foto": "https://m.media-amazon.com/images/M/MV5BMTA5ODI2NDEwNzleQTJeQWpwZ15BbWU4MDQxMjU1NzAy._V1_.jpg"
+   },
+   {
+      "IDator":"rose-byrne",
+      "nome":"Rose Byrne",
+      "foto":"https://images.mubicdn.net/images/cast_member/16198/cache-4103-1611519826/image-w856.jpg"
+   },
+   {
+      "IDator":"mark-wahlberg",
+      "nome":"Mark Wahlberg",
+      "foto":"https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"isabela-merced",
+      "nome":"Isabela Merced",
+      "foto":"https://br.web.img3.acsta.net/pictures/19/11/12/22/21/1026716.jpg"
+   },
+   {
+      "IDator":"octavia-spencer",
+      "nome":"Octavia Spencer",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Octavia_Spencer_2016.jpg/1200px-Octavia_Spencer_2016.jpg"
+   },
+   {
+      "IDator":"tig-notaro",
+      "nome":"Tig Notaro",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tig_Notaro_by_Gage_Skidmore.jpg/1200px-Tig_Notaro_by_Gage_Skidmore.jpg"
+   },
+   {
+      "IDator":"cillian-murphy",
+      "nome":"Cillian Murphy",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cillian_Murphy-2014.jpg/1200px-Cillian_Murphy-2014.jpg"
+   },
+   {
+      "IDator":"florence-pugh",
+      "nome":"Florence Pugh",
+      "foto":"https://cdn.britannica.com/20/217320-050-181C95DC/English-actor-Florence-Pugh-2019.jpg"
+   },
+   {
+      "IDator":"robert-downey-jr",
+      "nome":"Robert Downey Jr.",
+      "foto":"https://static.wikia.nocookie.net/universo-616-marvel/images/a/a5/Robert_Downey_Jr.jpg/revision/latest?cb=20140503165144&path-prefix=pt-br"
+   },
+   {
+      "IDator":"emily-blunt",
+      "nome":"Emily Blint",
+      "foto":"https://br.web.img3.acsta.net/pictures/18/08/14/17/03/0092037.jpg"
+   },
+   {
+      "IDator":"matt-damon",
+      "nome":"Matt Damon",
+      "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"ty-simpkins",
+      "nome":"Ty Simpkins",
+      "foto":"https://pbs.twimg.com/media/Fa28pnAXwAACD4Z?format=jpg"
+   },
+   {
+      "IDator":"lin-shaye",
+      "nome":"Lin Shaye",
+      "foto":"https://images.mubicdn.net/images/cast_member/30194/cache-199860-1486958079/image-w856.jpg"
+   },
+   {
+      "IDator":"sinclair-daniel",
+      "nome":"Sinclair Daniel",
+      "foto":"https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"ezra-miller",
+      "nome":"Ezra Miller",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ezra_Miller_by_Gage_Skidmore_2.jpg/800px-Ezra_Miller_by_Gage_Skidmore_2.jpg"
+   },
+   {
+      "IDator":"michael-keaton",
+      "nome":"Michael Keaton",
+      "foto":"https://static.wikia.nocookie.net/disney/images/1/1c/Michael_Keaton.jpg"
+   },
+   {
+      "IDator":"ben-affleck",
+      "nome":"Ben Affleck",
+      "foto":"https://m.media-amazon.com/images/M/MV5BMzczNzNiMDAtMmUzZS00MTkwLWIwOTYtNmYyNjg3MTVkNThhXkEyXkFqcGdeQXVyMjA4MjI5MTA@._V1_FMjpg_UX1000_.jpg"
+   },
+   {
+      "IDator":"sasha-calle",
+      "nome":"Sasha Calle",
+      "foto":"https://br.web.img2.acsta.net/pictures/21/02/19/23/45/3616016.jpg"
+   },
+   {
+      "IDator":"kiersey-clemons",
+      "nome":"Kiersey Clemons",
+      "foto":"https://static.wikia.nocookie.net/dublagempedia/images/2/2d/Kiersey_Clemons.jpg/revision/latest?cb=20210307005432&path-prefix=pt-br"
+   },
+   {
+      "IDator":"jennifer-lawrence",
+      "nome":"Jennifer Lawrence",
+      "foto":"https://f.i.uol.com.br/fotografia/2022/11/10/1668115418636d6bda507ce_1668115418_3x2_md.jpg"
+   },
+   {
+      "IDator":"josh-hutcherson",
+      "nome":"Josh Hutcherson",
+      "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Josh_Hutcherson_SDCC_2015.jpg/1200px-Josh_Hutcherson_SDCC_2015.jpg"
+   },
+   {
+      "IDator":"liam-hemsworth",
+      "nome":"Liam Hemsworth",
+      "foto":"https://br.web.img2.acsta.net/c_310_420/pictures/19/03/08/22/08/0890523.jpg"
+   },
+   {
+      "IDator":"elizabeth-banks",
+      "nome":"Elizabeth Banks",
+      "foto":"https://br.web.img3.acsta.net/pictures/19/09/05/00/04/0846887.jpg"
+   },
+   {
+      "IDator":"woody-harrelson",
+      "nome":"Woody Harrelson",
+      "foto":"https://cdn.britannica.com/28/221828-050-D5F314EE/American-actor-Woody-Harrelson-2018.jpg"
+   },
+   {
+      "IDator":"lenny-kravitz",
+      "nome":"Lenny Kravitz",
+      "foto":"https://images.squarespace-cdn.com/content/v1/57dd78a2b8a79bb3c4494a94/1526921592224-GX0RR3S4LVNHTMMN9SF5/Lenny_Kravitz_by_Gage_Skidmore.jpg"
+   },
+   {
+      "IDator":"donald-sutherland",
+      "nome":"Donald Sutherland",
+      "foto":"https://cdn.britannica.com/82/212282-050-8D836E10/Donald-Sutherland-Canadian-actor-2014.jpg"
+   },
+   {
+      "IDator":"alexander-ludwig",
+      "nome":"Alexander Ludwig",
+      "foto":"https://ntvb.tmsimg.com/assets/assets/503860_v9_bc.jpg"
+   }
 ]
